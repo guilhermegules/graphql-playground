@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Hello world app with GraphQL",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "keywords": [
     "GraphQL",
     "Node.js"
